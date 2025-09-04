@@ -40,7 +40,7 @@ Pillow>=9.0.0
 
 2. **Download the application**:
    ```bash
-   # Save the code as qr_app.py
+   # just run the main_mob.py
    ```
 
 3. **Run the application**:
